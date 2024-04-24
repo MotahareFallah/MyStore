@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55acac4a-6dae-4a82-bd0d-07eff14cefaa" name="Changes" comment="store model created.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="55acac4a-6dae-4a82-bd0d-07eff14cefaa" name="Changes" comment="tag added.">
+      <change afterPath="$PROJECT_DIR$/like/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/like/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/like/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/like/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/like/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/like/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/like/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +108,7 @@
       <updated>1713773228457</updated>
       <workItem from="1713773229832" duration="1754000" />
       <workItem from="1713857459386" duration="4683000" />
-      <workItem from="1713963055158" duration="1733000" />
+      <workItem from="1713963055158" duration="2554000" />
     </task>
     <task id="LOCAL-00001" summary="playground created.">
       <option name="closed" value="true" />
@@ -120,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713964171123</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tag added.">
+      <option name="closed" value="true" />
+      <created>1713970074093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713970074093</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +144,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="playground created." />
     <MESSAGE value="store model created." />
-    <option name="LAST_COMMIT_MESSAGE" value="store model created." />
+    <MESSAGE value="tag added." />
+    <option name="LAST_COMMIT_MESSAGE" value="tag added." />
   </component>
 </project>
