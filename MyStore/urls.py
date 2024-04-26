@@ -23,4 +23,5 @@ admin.site.site_header = 'MyStore Admin'
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('playground.urls')),
+    path('store/', include('store.urls')),
 ]
